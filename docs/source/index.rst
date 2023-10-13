@@ -10,6 +10,11 @@ Our Bloomington city guide is your passport to this unique destination. Whether 
 Join us on a journey through this captivating city, where history meets modernity, and every corner is an opportunity to explore, experience, and create cherished memories. From restaurants to attractions, events to local stories, our guide will be your companion in navigating the wonders of Bloomington, Indiana.
 
 Buckle up, and let's embark on a journey through the heart of the Midwest. Bloomington awaits, ready to enchant and inspire you in every way possible.
+
+:doc:`Attractions`
+:doc:`Restaurants`
+
+
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
