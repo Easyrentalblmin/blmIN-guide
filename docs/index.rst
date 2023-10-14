@@ -21,10 +21,13 @@ Eagle Pointe is renowned for its natural beauty and outdoor attractions, and "Th
 
 "The Lakeside Sanctuary" is more than just a place to stay; it's an invitation to escape, recharge, and reconnect with nature. If you're seeking a tranquil retreat where the beauty of the outdoors is seamlessly integrated into your daily life, book your stay today and experience the ultimate lakeside sanctuary.
 
+
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
 
+   ep-detail
    ep-intro
    blm-intro
    search
