@@ -10,11 +10,9 @@ Entrance Gate
 ~~~~~~~~~~~~~
 You will be receiving a QR Code to be displayed on the Entrance Gate. 
 
+Your check-in time is at 4.00 PM EST. any other check-in time would have to be mutually agreed upon in advance.
 
-Your check-in time is at 4.00 PM EST. If you arrive earlier and we're ready, we'll do our best to accommodate you.
 
-We will
-[Any specific check-in instructions, such as key pickup, access codes, or where to find the keys].
 
 Check-Out Information
 ---------------------
@@ -103,13 +101,13 @@ Amenities
 Our property is designed to provide you with a comfortable and enjoyable stay. We offer a range of amenities to ensure you have everything you need during your visit. Here's what you can expect:
 
 **Bedrooms**
-We have [number of bedrooms] beautifully furnished bedrooms with comfortable beds and high-quality linens. You'll enjoy a peaceful night's sleep.
+We have two beautifully furnished bedrooms with comfortable beds and high-quality linens. You’ll enjoy a peaceful night’s sleep.
 
 **Bathrooms**
-[Number of bathrooms] bathrooms stocked with fresh towels, shampoo, conditioner, body wash, and a hairdryer.
+Two bathrooms stocked with fresh towels, shampoo, conditioner, body wash, and a hairdryer. Additional items for personal hygiene will be provided.
 
 **Kitchen**
-A fully equipped kitchen with modern appliances, cookware, and dinnerware. Whether you're a culinary enthusiast or prefer simple meals, you'll find everything you need.
+A fully equipped kitchen with modern appliances, cookware, and dinnerware. Whether you’re a culinary enthusiast or prefer simple meals, you’ll find everything you need.
 
 **Living Area**
 A cozy living area with comfortable seating, a flat-screen TV, and streaming services for your entertainment.
@@ -118,23 +116,23 @@ A cozy living area with comfortable seating, a flat-screen TV, and streaming ser
 A dining space where you can enjoy meals together.
 
 **Outdoor Space**
-[Description of any outdoor amenities such as a garden, patio, or balcony] for relaxation and outdoor dining.
+a comfortable 4-piece Outdoor Rattan Chair and Wicker Sofa set for lounging with an overlook to the golf course.
 
 **High-Speed Internet**
 Stay connected with high-speed Wi-Fi throughout the property.
 
 **Laundry Facilities**
-A washer and dryer for your convenience.
+A washer and dryer for your convenience. The detergent and freshener are available in the closet across.
 
 **Parking**
 Included is on-site parking. Guests, friends and families are welcome to park up-to two vehicles. Please use the extra parking areas next to the right of the Condo.
-[Description of parking options, whether it's free on-site parking, street parking, or a nearby garage].
 
 **Air Conditioning/Heating**
-Stay comfortable year-round with central air conditioning and heating. Please use Google Nest Thermostat for climate control.
+Stay comfortable year-round with central air conditioning and heating.
+Please use Google Nest Thermostat for climate control. Nest thermostats don’t have a touch screen. Use it just like a normal thermostat, turn the ring up when you want it a little warmer, and turn it down when you want it a little cooler.
 
 **Work-Friendly Features**
-[Description of any amenities suitable for remote work, such as a dedicated workspace].
+Our space is equipped with the innovative Origami desk, these foldable desks are stored inside the closets in the rooms for you to bring out whenever needed.
 
 **Safety Features**
 Your safety is our top priority. Our property is equipped with a range of safety features to provide you with a secure and worry-free stay. Here's what you can expect:
@@ -147,17 +145,13 @@ Your safety is our top priority. Our property is equipped with a range of safety
 
 - *First-Aid Kit:* We provide a well-stocked first-aid kit to address minor injuries or health concerns.
 
-- *Emergency Contact Information:* In case of an emergency, we supply you with contact information for local emergency services, hospitals, and our property manager.
+- *Emergency Contact Information:* In case of an emergency, please dial 911.
 
 - *Secure Locks:* Our property is equipped with secure locks to protect your privacy and security.
 
-- *Well-Lit Pathways:* Outdoor pathways and entrances are well-lit for your safety and convenience, even at night.
+- *Keyless Entry:* The code to enter will be the last four digits of your phone number. Alternatively, you may use keys located in the lockbox.
 
-- *Safety Card:* You'll find a safety card with important information, including emergency numbers and evacuation routes, in an easily accessible location.
-
-- *Keyless Entry:* [If applicable, mention if you offer keyless entry, which can enhance security and convenience].
-
-- *Security Camera:* We have installed door-bell camera.
+- *Security Camera:* We have installed a door-bell camera and two additional cameras on the patio.
 
 We take safety seriously and want you to feel comfortable and secure during your stay. If you have any questions about our safety features or need additional information, please don't hesitate to reach out. Your peace of mind is important to us.
 
@@ -168,26 +162,22 @@ Families are always welcome at our property, and we've thoughtfully provided a r
 
 - *Children's Books:* We have a selection of age-appropriate books to keep your children entertained.
 
-- *Safety Gates:* If you have a crawler or early walker, we can provide safety gates to secure certain areas.
+- *Coloring Books:* We have a selection of coloring books, colored pencils and crayons from Crayola.
 
-- *Outlet Covers and Cabinet Locks:* For safety, we have outlet covers and cabinet locks available.
+- *Outlet Covers and Cabinet Locks:* For safety, we have outlet covers available.
 
 We want to make your stay as stress-free as possible. If you have any specific requests or need more information about our children's items, please feel free to contact us. Your family's comfort and enjoyment are important to us.
 
 **Additional Amenities**
 As we aim to make your stay as comfortable and convenient as possible. In addition to our standard amenities, we offer the following additional features to enhance your experience:
 
-- *Swimming Pool:* Within 3 minutes walking distance, enjoy a refreshing dip in our private swimming pool. Perfect for relaxing and unwinding during your stay. Key is required to enter the swimming pool. The pool is only available during June to early September each year.
+- *Swimming Pool:* Within approximately of five minutes walking distance, enjoy a refreshing dip in our private swimming pool. Perfect for relaxing and unwinding during your stay.  A Key fob is required to enter the swimming pool. The pool is only available weather permitting and  open during particular season.
 
-- *BBQ Area:* Host a barbecue party with friends or family in our designated BBQ area. Grilling facilities and outdoor seating are provided.
+- *Board Games:* For fun and entertainment, we offer a variety of board games accessible under the coffee table.
 
-- *Board Games:* For fun and entertainment, we offer a variety of board games.
-
-- *Private Patio:* Some of our units feature a private balcony or patio for you to enjoy a peaceful outdoor space.
+- *Private Patio:* A private patio for you to enjoy the peaceful outdoor space.
 
 - *Lake Monroe:* Within 5 minutes of driving or 30 minutes of walking, enjoy the Lake Monroe.
-
-[Include any other unique amenities your property offers, such as access to a pool, gym, or special features like a fireplace].
 
 
 House Rules
@@ -195,27 +185,21 @@ House Rules
 
 We kindly request that you respect our house rules. They are listed in your Airbnb booking confirmation and may include quiet hours, smoking policies, and more.
 
-**Maximum Party Size**
-Our property is suitable for a maximum party size of **four** guests. This includes both adults and children. We kindly request that you do not exceed this limit to ensure the comfort and safety of all guests."
+**Maximum Party Size** Our property is suitable for a maximum party size of **four** guests. This includes both adults and children. We kindly request that you do not exceed this limit to ensure the comfort and safety of all guests."
 
 - *Additional Guests:* Mention that additional guests beyond the maximum party size may not be accommodated and are subject to your discretion.
 
-- *Consequences:* You can also mention that exceeding the maximum party size may result in additional charges or the termination of the booking.
+- *Consequences:* exceeding the maximum party size may result in additional charges or the termination of the booking without refund.
 
-**Security**
-Ensure all doors and windows are locked when you leave the property. Please report any security concerns immediately.
+**Security** Please ensure all doors and windows are locked when you leave the property. Please report any security concerns immediately. Dial 911 for emergency.
 
-**Smoking**
-Our property is non-smoking. Please smoke only outside, if applicable.
+**Smoking** Our property is non-smoking.
 
-**Pet Policy**
-*No Pets Allowed* - Our property is designated as a pet-free space to accommodate guests with allergies. We kindly request that you do not bring any pets onto the premises.
+**Pet Policy** *No Pets Allowed* - Our property is designated as a pet-free space to accommodate guests with allergies. We kindly request that you do not bring any pets onto the premises.
 
-**Quiet Hours**
-To respect our neighbors and other guests, we observe quiet hours from 10:00 PM to 7:00 AM. During these hours, please keep noise levels to a minimum, including music and conversations.
+**Quiet Hours** To respect our neighbors and other guests, we observe quiet hours from 10:00 PM to 7:00 AM. During these hours, please keep noise levels to a minimum, including movies, music and conversations.
 
-**No Party Policy**
-Our property is not suitable for parties or events. Large gatherings, excessive noise, and disruptive activities are strictly prohibited. We prioritize a peaceful and respectful environment for all guests.
+**No Party Policy** Our property is not suitable for parties or events. Large gatherings, excessive noise, and disruptive activities are strictly prohibited. We prioritize a peaceful and respectful environment for all guests.
 
 House Manual
 ------------
@@ -491,23 +475,22 @@ If you notice any problems or unusual behavior of the ice maker, please inform u
 
 **Televisions**
 
-
-TBC
+There are three LED TVs that are in the Living room and each bedroom with 60-inch, 50-inch and 43-inch respectively. The TVs are Ruko-enabled devices and guest-mode is enabled. Guests are expected to use them with their own accounts.
 
 **Mobile Chargers**
 
-
-TBC
+There are few spots available across the property to wirelessly charging mobile phones. 
 
 **Humidifier**
 
+Humidifier is available for use in the closet across the Washer/Dryer.
 
-TBC
 
 **Climate Control / Google Nest Thermostat**
 
+*Select Heating or Cooling Mode*: Rotate the outer ring of the thermostat to select either the heating mode (represented by a flame icon) or the cooling mode (represented by a snowflake icon), depending on your comfort needs.
+*Adjust the Temperature*: Use the same outer ring to adjust the temperature to your desired setting. For heating, increase the temperature if you want warmer air, and for cooling, decrease the temperature for cooler air.
 
-TBC
 
 
 
@@ -520,14 +503,20 @@ Please check our :doc:`list of recommendations <blm-intro>` or `Visit Bloomingto
 Contact Us
 ----------
 
-If you have any questions or encounter any issues during your stay, we're here to help. You can reach us through the Airbnb messaging platform, by phone at [Your Contact Number], or via email at [Your Email Address].
+If you have any questions or encounter any issues during your stay, we’re here to help. You can reach us through the Airbnb messaging platform, by phone 617-763-1324 or via email at easyrentalblmin@gmail.com.
 
 Reviews and Feedback
 --------------------
 
 We truly value your feedback. After your stay, please consider leaving a review on the Airbnb platform. Your insights are invaluable for both us and future guests.
 
-We hope you have a wonderful time in [City/Location], and that your stay at [Your Property Name] is comfortable and enjoyable. Feel free to make yourself at home, and don't hesitate to reach out if you need anything.
+We hope you have a wonderful time in Bloomington, and that your stay at our Airbnb, The Lakeside Sanctuary, is comfortable and enjoyable. Please feel free to make yourself at home, and don’t hesitate to reach out if you need anything.
+
+
+Disclaimer
+----------
+As guests renting our Airbnb property, you acknowledge and agree that you are responsible for your actions during your stay. While we strive to provide a comfortable and enjoyable experience, we cannot guarantee against unforeseen circumstances. Therefore, we kindly ask that you treat our property with respect and follow the house rules outlined in our guidebook. Please note that the hosts are not liable for any issues that may arise during your rental period, including but not limited to accidents, injuries, or damages to personal property. Your safety and satisfaction are important to us, so please reach out if you have any questions or concerns. Thank you for choosing to stay with us, and we hope you have a wonderful time at our Airbnb!
+
 
 Warm regards,
 
