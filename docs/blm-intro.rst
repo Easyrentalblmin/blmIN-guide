@@ -121,14 +121,23 @@ Pizza and Italian
 ~~~~~~~~~~~~~~~~~
 
 **Mother Bear's Pizza** -  A local favorite known for its variety of specialty pizzas, including the famous "Avalanche."
+
 **Aver's Pizza** -  Offers a wide range of specialty and create-your-own pizzas with a variety of toppings and crust options.
+
 **Pizza X** -  A Bloomington staple known for its unique, flavorful specialty pizzas and extensive menu.
+
 **Bucceto's Smiling Teeth** -  A family-friendly Italian restaurant that also serves delicious pizza and pasta dishes.
+
 **DeAngelo's** -  Offers a variety of pizza options, including specialty pizzas and create-your-own choices.
+
 **Pizza Hut** -  A well-known chain offering classic and specialty pizzas for dine-in, carryout, and delivery.
+
 **Little Caesars** -  Known for its hot-n-ready pizzas and various pizza options at affordable prices.
+
 **Domino's Pizza** -  Offers a range of pizza varieties with fast and convenient delivery options.
+
 **Papa John's Pizza** -  A popular chain offering a variety of pizza options and sides for delivery or takeout.
+
 **Casey's General Store** -  A convenience store chain known for its pizza, including breakfast and specialty pizzas.
 
 These pizza places cater to various tastes, from classic pepperoni to more unique toppings, and they offer different crust styles, making it easy to find the perfect pizza for your preferences.
