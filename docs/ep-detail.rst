@@ -496,7 +496,6 @@ Humidifier is available for use in the closet across the Washer/Dryer.
 
 Local Recommendations, Attractions and Activities
 -------------------------------------------------
-
 Please check our :doc:`list of recommendations <blm-intro>` or `Visit Bloomington <https://www.visitbloomington.com>`_.
 
 
@@ -521,5 +520,7 @@ As guests renting our Airbnb property, you acknowledge and agree that you are re
 Warm regards,
 
 Teresia & Tandhy
+
 The Lakeside Sanctuary
+
 easyrentalblmin@gmail.com
